@@ -306,16 +306,23 @@ Es decir: un **desembolso inicial fuerte** (las solicitudes) + **costos chicos r
 
 **Dato relevante:** la tienda es `gorroalive.com.ar` → "ALIVE" no es solo el producto, también es identidad comercial. Por eso ALIVE va también en tienda.
 
-### Los 6 huecos posibles y cómo se cierran
+### Tabla completa de huecos (nombres + logos + terrenos + fase)
 
-| Hueco | Se cierra con |
-|---|---|
-| Gorro ALIVE (prenda) | ALIVE nombre + logo en prenda |
-| Gorro/antifaz ALIVE terapéutico | ALIVE nombre + logo en terapéutico |
-| Tienda ALIVE | ALIVE nombre en tienda |
-| Tienda ALIVEAR | ALIVEAR nombre + logo en tienda |
-| Gorro ALIVEAR (prenda) | ALIVEAR nombre en prenda |
-| Gorro ALIVEAR terapéutico | ALIVEAR nombre en terapéutico |
+| # | Hueco posible (qué podría hacer un copión) | Se cierra registrando | Fase / estado |
+|---|---|---|---|
+| 1 | Gorro ALIVE (prenda) | ALIVE nombre en prenda | Fase 1 |
+| 2 | Logo de ALIVE copiado en un gorro | ALIVE logo en prenda | Fase 1 |
+| 3 | Gorro/antifaz ALIVE terapéutico | ALIVE nombre en terapéutico | Fase 1 |
+| 4 | Logo de ALIVE en versión terapéutica | ALIVE logo en terapéutico | Fase 1 |
+| 5 | Tienda/ecommerce ALIVE (dominio gorroalive) | ALIVE nombre en tienda | Fase 1 |
+| 6 | Tienda/ecommerce ALIVEAR | ALIVEAR nombre en tienda | Fase 1 |
+| 7 | Logo de ALIVEAR copiado en la tienda | ALIVEAR logo en tienda | Fase 1 |
+| 8 | Gorro ALIVEAR (prenda) | ALIVEAR nombre en prenda | Fase 2 |
+| 9 | Gorro ALIVEAR terapéutico | ALIVEAR nombre en terapéutico | Fase 2 |
+| 10 | Logo de ALIVEAR en el producto (caja/etiqueta/gorro) | ALIVEAR logo en prenda + terapéutico | Fase 2 · ◻️ solo si el logo de ALIVEAR va en el producto |
+| 11 | Logo de ALIVE usado como marca de tienda de otro rubro | — (no se registra) | Abierto a propósito: riesgo remoto; lo cubre indirecto la fila 5 + filas 2/4 |
+
+**Recuento:** filas 1-9 = 9 registros (✅) que cierran todos los huecos reales · fila 10 = +2 condicionales (◻️) · fila 11 = único gap, remoto, no se paga por cerrar.
 
 ### Matriz final (✅ = registrar · ◻️ = condicional · — = innecesario)
 
