@@ -406,6 +406,33 @@ Comunicar **"alivio / bienestar / uso terapéutico"** sostiene Clase 10 por la n
 
 **Mensaje a la gestora: APROBADO.** Describe el producto como "gorro de uso terapéutico" (señal correcta para Clase 10 + decide 25/35), es ANMAT-safe ("no es dispositivo médico regulado por ANMAT"), pide clases + costo + pago único, conciso. Sin correcciones pendientes.
 
+### MENSAJE FINAL ENVIADO (versión definitiva, el founder asume el gasto)
+
+```
+Hola, ¿cómo están? Mi nombre es Diógenes, quiero consultar por el registro de mi marca.
+
+Tengo una marca llamada ALIVEAR, y dentro de ella mi producto principal, ALIVE: un gorro de gel frío/calor para el alivio de la migraña. Es un producto textil (con gel de agua insertado), de uso terapéutico / bienestar.
+
+Me gustaría protegerlo así:
+
+Fase 1 — ALIVE:
+* ALIVE nombre + logo como producto de uso terapéutico / bienestar (alivio de migraña)
+* ALIVE nombre + logo como gorro / artículo textil que se usa en la cabeza
+* ALIVE nombre en tienda / ecommerce
+
+Fase 2 — ALIVEAR:
+* ALIVEAR nombre + logo en tienda / ecommerce
+* ALIVEAR nombre como gorro y como producto de uso terapéutico
+
+¿Me podrías indicar en qué clases corresponde, cómo conviene encararlo, el costo y si es un pago único o hay costos posteriores? Abierto a tu recomendación.
+
+Aclaración: no es un dispositivo médico regulado por ANMAT, es un producto de uso terapéutico / bienestar.
+
+¡Gracias!
+```
+
+Cubre las tres clases del producto de forma explícita: terapéutico (10, principal), gorro/textil (25, defensiva), tienda (35). Pendiente del lado del founder: (1) que la búsqueda de antecedentes dé limpia, (2) activar vigilancia del Boletín post-registro.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
