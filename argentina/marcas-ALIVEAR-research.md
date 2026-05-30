@@ -386,6 +386,16 @@ La clasificación de Niza se rige por la **FUNCIÓN PRINCIPAL** del producto. El
 
 **Estrategia final:** ALIVE → Clase 10 (principal, nombre+logo) + Clase 25 (defensiva, nombre+logo) + Clase 35 (nombre). ALIVEAR → Clase 35 (nombre+logo) + Clase 25/10 (nombre, defensivo). La clase 10 deja de ser opcional: es la casa principal del producto. El agente confirma con la práctica del INPI; si ancla en 25 e ignora la 10, cuestionar (función principal = terapéutica).
 
+### TRAMPA A EVITAR (PARTE 16) — defender Clase 10 ≠ etiquetar como dispositivo médico
+
+Riesgo de caducidad de Clase 10 = **bajo** para este producto: venderlo (aunque se comunique como "gorro de gel para migraña") ya es **uso de un bien Clase 10**, porque es un artículo terapéutico por naturaleza; además la afinidad con el uso real lo respalda. **No hace falta "reforzar" el uso de Clase 10.**
+
+**Trampa:** un consejo común es "etiquetá el producto como dispositivo de crioterapia/médico para defender Clase 10". **NO hacerlo.** Distinción clave:
+- **Registrar en Clase 10 de Niza → NO dispara ANMAT** (la clase de marca es administrativa, ANMAT no la mira).
+- **Etiquetar/publicitar como "dispositivo médico de crioterapia" → SÍ puede disparar ANMAT** (producto médico regulado).
+
+Comunicar **"alivio / bienestar / uso terapéutico"** sostiene Clase 10 por la naturaleza del producto **y** es ANMAT-safe. Pregunta correcta al agente: cómo describir el producto para sostener Clase 10 **sin** que sea considerado dispositivo médico regulado por ANMAT.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
