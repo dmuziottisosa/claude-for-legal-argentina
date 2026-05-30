@@ -297,3 +297,43 @@ Es decir: un **desembolso inicial fuerte** (las solicitudes) + **costos chicos r
 **Sin registro (lo que tenés hoy):** solo competencia desleal / lealtad comercial / "marca de hecho". Es **mucho más débil**: sin vía penal, sin medidas en frontera, y los programas de las plataformas te piden registro. Además, bajo first-to-file, **un tercero podría registrar ALIVE antes que vos** y darte vuelta el reclamo. Por eso registrar **ya** es urgente.
 
 > **Resumen:** registrar = pasás de "casi indefenso" a tener oposición + civil + penal + aduana + takedowns. Pero en 2026 la defensa **no es automática**: el escudo lo activás vos vigilando el Boletín y oponiéndote a tiempo.
+
+---
+
+# PARTE 12 — PLAN FINAL "CERO HUECOS" (matriz definitiva, eficiente)
+
+**Activos:** 2 nombres (ALIVE = producto insignia; ALIVEAR = marca paraguas/tienda) · 2 logos (el de ALIVE va impreso en el gorro; el de ALIVEAR es el de la marca) · 3 terrenos (terapéutico/bienestar, prenda/gorro, tienda/ecommerce).
+
+**Dato relevante:** la tienda es `gorroalive.com.ar` → "ALIVE" no es solo el producto, también es identidad comercial. Por eso ALIVE va también en tienda.
+
+### Los 6 huecos posibles y cómo se cierran
+
+| Hueco | Se cierra con |
+|---|---|
+| Gorro ALIVE (prenda) | ALIVE nombre + logo en prenda |
+| Gorro/antifaz ALIVE terapéutico | ALIVE nombre + logo en terapéutico |
+| Tienda ALIVE | ALIVE nombre en tienda |
+| Tienda ALIVEAR | ALIVEAR nombre + logo en tienda |
+| Gorro ALIVEAR (prenda) | ALIVEAR nombre en prenda |
+| Gorro ALIVEAR terapéutico | ALIVEAR nombre en terapéutico |
+
+### Matriz final (✅ = registrar · ◻️ = condicional · — = innecesario)
+
+| Activo | Terapéutico | Prenda (gorro) | Tienda / ecommerce |
+|---|:---:|:---:|:---:|
+| ALIVE — nombre | ✅ | ✅ | ✅ |
+| ALIVE — logo | ✅ | ✅ | — |
+| ALIVEAR — nombre | ✅ | ✅ | ✅ |
+| ALIVEAR — logo | ◻️ | ◻️ | ✅ |
+
+**= 9 registros** (los ✅) cierran los 6 huecos.
+
+### Decisiones de eficiencia (qué se deja afuera y por qué NO es hueco)
+- **Logo de ALIVE en tienda → no.** El nombre ALIVE ya está en tienda y el logo está en los dos terrenos del producto. Que alguien use el dibujo exacto como marca de una tienda de otro rubro es escenario remoto; no justifica el registro.
+- **Logo de ALIVEAR en el producto → ◻️ condicional:** registrarlo en terapéutico y prenda **solo si** el logo de ALIVEAR va en la caja/etiqueta/gorro. Si vive solo en la tienda/web, no hace falta (no hay nada que copiar ahí).
+
+### Secuencia (respeta prioridad ALIVE + presupuesto)
+- **Fase 1 (urgente):** ALIVE nombre+logo (terapéutico + prenda) · ALIVE nombre (tienda) · ALIVEAR nombre+logo (tienda). → Blinda todo lo realmente copiable.
+- **Fase 2 (cierre total):** ALIVEAR nombre (terapéutico + prenda) [+ logo de ALIVEAR ahí si va en el producto]. → Cero huecos absolutos.
+
+**Operativo:** presentar toda la línea ALIVE el mismo día (first-to-file, prioridad por día y hora). Búsqueda de antecedentes previa obligatoria (incluida figurativa por Clasificación de Viena para los logos). Titular: persona física (responsable inscripto).
