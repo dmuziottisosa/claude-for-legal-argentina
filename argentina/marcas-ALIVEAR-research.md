@@ -223,3 +223,77 @@ Casi. Le haría dos ajustes (ver Parte 5): subir **ALIVEAR denominativa clase 10
 - Declaración jurada de uso de medio término y caducidad parcial por falta de uso (reforma Ley 22.362) — análisis de estudios de PI (Clarke Modet, SBM, HyA, LexLatin).
 
 > **Recordatorio final:** documento de investigación para llegar informado al gestor. **No** es opinión legal ni de disponibilidad. La decisión final, la búsqueda en la base del INPI y la estrategia las confirma tu **agente de la propiedad industrial matriculado**.
+
+---
+
+# PARTE 8 — ACTUALIZACIÓN con datos confirmados por el founder (esta parte AJUSTA las anteriores)
+
+**Datos nuevos:**
+1. El producto **se importa y se vende como PRENDA TEXTIL (gorro)**, no como dispositivo médico. **No tiene uso médico**, solo posicionamiento **wellness / terapéutico**.
+2. El founder es **responsable inscripto (persona física)** → registra **a su nombre**.
+
+### Impacto en la estrategia
+- **Clase 25 sube a núcleo (deja de ser defensiva).** Como el producto **ES** un gorro/prenda y **lo vas a usar** como tal, la clase 25 es **clase de uso real** → **NO** corre riesgo de caducidad por falta de uso (era el riesgo de la Parte 2.C). Probablemente sea, junto con la 10, la clase **más defendible** porque coincide con la naturaleza física del producto.
+- **Clase 10 sigue valiendo, pero confirmá la redacción.** Sin uso médico, la 10 ("dispositivos terapéuticos") puede igual aceptarse describiendo el producto como aparato de termoterapia/crioterapia de bienestar, pero **es la pregunta nº1 para el gestor**: ¿la 10 conviene igual, o la 25 alcanza como ancla y la 10 es para bloquear a quien lo venda como "aparato terapéutico"? Mi lectura: **registrá ambas** — 25 (lo que el producto es) + 10 (la función que vendés) — para tapar los dos flancos.
+- **Desaparece la alerta ANMAT** (dolor de cabeza nº10): al no haber uso médico, no es producto médico. **Queda solo** cuidar que la publicidad no haga claims terapéuticos médicos absolutos (defensa del consumidor / publicidad), pero es riesgo menor.
+- **Titularidad resuelta:** a nombre de la **persona física (responsable inscripto)**. Listo, sin cesión pendiente. *Solo* si a futuro armás una SAS/SRL para el negocio, ahí sí conviene ceder la marca a la sociedad (trámite con arancel).
+
+### Plan de clases REVISADO (definitivo para llevar al gestor)
+**Núcleo (Tier 1):** 25 (denominativa ALIVEAR) · 25 (denominativa ALIVE) · 10 (denominativa ALIVE) · 35 (denominativa ALIVEAR).
+**Refuerzo (Tier 2):** 10 (denominativa ALIVEAR) · mixtas de ALIVE y ALIVEAR · figurativa flor de loto.
+*(Todo sujeto a la búsqueda de antecedentes del Tier 0.)*
+
+---
+
+## PARTE 9 — PLAN TÁCTICO-ESTRATÉGICO DE REGISTRO (paso a paso)
+
+**FASE 0 — Antes de presentar (esta semana):**
+- Pedir al gestor la **búsqueda de antecedentes** de ALIVEAR y ALIVE en clases **25, 10, 35** + familias fonéticas/adyacentes + figurativa de la flor de loto.
+- Confirmar redacción de productos/servicios por clase (≤20 ítems por solicitud para pagar la tasa base).
+
+**FASE 1 — Presentación del núcleo (apenas la búsqueda dé luz verde):**
+- Presentar las **4 solicitudes del Tier 1 el mismo día** (importa por el first-to-file, Art. 8: prioridad por día y hora).
+- Titular: **persona física (vos), responsable inscripto.**
+
+**FASE 2 — Publicación y oposiciones (mes 1):**
+- Cada solicitud se publica en el Boletín de Marcas. Se abre la ventana de **oposición de terceros (30 días)**.
+- Si nadie se opone y no hay impedimento absoluto → **concesión en ~2 meses**.
+
+**FASE 3 — Refuerzo (Tier 2, según presupuesto):**
+- Una vez asegurado el núcleo, sumar mixtas + figurativa + ALIVEAR clase 10.
+
+**FASE 4 — Mantenimiento permanente (esto es lo que te hace "bulletproof"):**
+- **Vigilancia del Boletín** para oponerte a confundibles (obligatorio en el régimen 2026).
+- **Declaración jurada de uso** entre año 5 y 6.
+- **Renovación** cada 10 años.
+
+---
+
+## PARTE 10 — ¿ES UN SOLO PAGO?
+
+**No.** No existe el "pago único que te deja cubierto para siempre". Los pagos son:
+1. **Por cada solicitud** = marca × clase × tipo. Núcleo (4 solicitudes) ≈ 4 × 100 UMAPI ≈ **~$144.000 ARS** en tasas oficiales (abril 2026), **+ honorarios del gestor por cada una** (suele ser el grueso — pedí presupuesto cerrado).
+2. **Vigilancia** (servicio mensual/anual, opcional pero recomendado).
+3. **Oposición** (arancel, solo si necesitás frenar a alguien).
+4. **Declaración de uso** (año 5-6, arancel menor).
+5. **Renovación** (cada 10 años, arancel propio).
+
+Es decir: un **desembolso inicial fuerte** (las solicitudes) + **costos chicos recurrentes** (mantenimiento). No es suscripción, pero tampoco "pagás una vez y listo".
+
+---
+
+## PARTE 11 — SI ME COPIAN, ¿PUEDO RECLAMAR / DEFENDERME?
+
+**Con la marca registrada: SÍ, y con herramientas fuertes.** Sin registro: muy poco.
+
+**Con registro (lo que ganás):**
+- **Oposición:** frenar en el INPI a quien intente registrar una marca confundible (dentro de los 30 días de su publicación — por eso necesitás vigilancia).
+- **Acción de cese de uso + daños y perjuicios** (civil, Ley 22.362): exigir que dejen de usar la marca y reclamar indemnización.
+- **Medidas cautelares:** secuestro/embargo de la mercadería en infracción.
+- **Vía penal** (Ley 22.362, arts. 31-34): la falsificación o imitación fraudulenta de una marca registrada es **delito** (prisión + multa). Solo disponible **si la marca está registrada**.
+- **Medidas en frontera (Aduana):** inscribir la marca para que la Aduana retenga importaciones de copias.
+- **Bajada de publicaciones en MercadoLibre** (Programa de Protección de Propiedad Intelectual de MELI): denunciar y dar de baja publicaciones de copias — **te piden el número de marca registrada**.
+
+**Sin registro (lo que tenés hoy):** solo competencia desleal / lealtad comercial / "marca de hecho". Es **mucho más débil**: sin vía penal, sin medidas en frontera, y los programas de las plataformas te piden registro. Además, bajo first-to-file, **un tercero podría registrar ALIVE antes que vos** y darte vuelta el reclamo. Por eso registrar **ya** es urgente.
+
+> **Resumen:** registrar = pasás de "casi indefenso" a tener oposición + civil + penal + aduana + takedowns. Pero en 2026 la defensa **no es automática**: el escudo lo activás vos vigilando el Boletín y oponiéndote a tiempo.
