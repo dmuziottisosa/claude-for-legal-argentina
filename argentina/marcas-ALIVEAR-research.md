@@ -373,6 +373,19 @@ La aclaración anterior llevó a subestimar la Clase 10. **Se corrige:** el prod
 
 **Recomendación corregida sobre Clase 10:** para **ALIVE** (producto estrella), registrar en Clase 10 (nombre + logo) ya **NO es reflejo, es fundado** — es la segunda casa real del producto. ALIVEAR en Clase 10 sigue siendo opcional. El núcleo de 6 (25+35) sigue siendo base válida de arranque; sumar ALIVE en 10 es una mejora bien fundada. El agente confirma redacción y si va 25, 10 o ambas (ambas, bien fundado).
 
+### PIVOTE FINAL (PARTE 15) — el founder precisa: "NO es para vestirse, es un gorro TERAPÉUTICO"
+
+La clasificación de Niza se rige por la **FUNCIÓN PRINCIPAL** del producto. El founder define la función principal como **terapéutica** (alivio de migraña), no de vestir. Verificado:
+- Los artículos con función terapéutica están **excluidos de la Clase 25** aunque se usen puestos — igual que vestuario de quirófano y calzado ortopédico van a **Clase 10**. Un gorro de alivio de migraña, por ser artículo terapéutico, **se clasifica en Clase 10**. (Fuentes: Easy Trademarks — Class 25 exclusiones; clasificaciondeniza.com/clases/10.)
+- Regla: "si un artículo es terapéutico y usable, la clase depende de cuál función es la principal".
+
+**Consecuencia — INVERSIÓN de la estrategia:**
+- **Clase 10 (terapéutico) = PRINCIPAL para ALIVE** (la pieza maestra). Sin problema de caducidad: el uso real ES terapéutico.
+- **Clase 25 (gorro/usable) = DEFENSIVA** (pasa de ancla a defensa; tapar a quien lo venda como "gorro").
+- **Clase 35 (tienda) = sí.**
+
+**Estrategia final:** ALIVE → Clase 10 (principal, nombre+logo) + Clase 25 (defensiva, nombre+logo) + Clase 35 (nombre). ALIVEAR → Clase 35 (nombre+logo) + Clase 25/10 (nombre, defensivo). La clase 10 deja de ser opcional: es la casa principal del producto. El agente confirma con la práctica del INPI; si ancla en 25 e ignora la 10, cuestionar (función principal = terapéutica).
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
