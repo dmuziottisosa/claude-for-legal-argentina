@@ -356,6 +356,23 @@ Es decir: un **desembolso inicial fuerte** (las solicitudes) + **costos chicos r
 - **SÍ:** con estos 9 concedidos, nadie vende un gorro ni abre una tienda usando ALIVE/ALIVEAR o el logo sin que el titular tenga con qué frenarlo (oposición, cese, daños, penal, aduana, takedown ML).
 - **NO (queda fuera de control del plan):** (a) que ALIVE esté libre → lo define la búsqueda del agente, es lo único que puede volar el plan; (b) copia del gorro con otro nombre → la marca protege identidad, no el molde (producto genérico, habrá clones); (c) tranquilidad pasiva → el INPI 2026 no vigila de oficio, hace falta vigilancia + oposición a tiempo.
 
+### Afinado final (aclaración del founder: "es un gorro con gel, NO fármaco ni utensilio médico")
+
+Confirma que el producto es **una prenda textil** (el gel es una característica, no lo vuelve dispositivo médico). Consecuencias:
+- **Clase 25 = casa real e inatacable.** No hay discusión de encaje.
+- **Clase 10 = aún más marginal y frágil.** Sin producto médico que usar, ese registro es puramente defensivo y el más caducable; el agente puede rechazarlo como "esto es 25". El vector que cubriría es débil (un clon "terapéutico" también es un gorro → cae en Clase 25 igual).
+- **ANMAT: descartado** (no es fármaco ni dispositivo). Solo cuidar lenguaje publicitario ("alivia/calma" ok; evitar "cura").
+
+**Estructura recomendada:**
+
+🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
+1. ALIVE nombre — 25 · 2. ALIVE logo — 25 · 3. ALIVE nombre — 35 · 4. ALIVEAR nombre — 35 · 5. ALIVEAR logo — 35 · 6. ALIVEAR nombre — 25
+
+🟡 **Anillo defensivo — 3 registros (opcional, lo primero que se recorta):**
+7. ALIVE nombre — 10 · 8. ALIVE logo — 10 · 9. ALIVEAR nombre — 10
+
+**Firma realista:** con el núcleo de 6 registrado y la búsqueda limpia, nadie vende un gorro ni abre una tienda con el nombre/logo del founder sin que tenga con qué frenarlo. El anillo de Clase 10 es extra, no requisito.
+
 ### Matriz final (✅ = registrar · ◻️ = condicional · — = innecesario)
 
 | Activo | Terapéutico | Prenda (gorro) | Tienda / ecommerce |
