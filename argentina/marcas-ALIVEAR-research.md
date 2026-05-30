@@ -324,6 +324,38 @@ Es decir: un **desembolso inicial fuerte** (las solicitudes) + **costos chicos r
 
 **Recuento:** filas 1-9 = 9 registros (✅) que cierran todos los huecos reales · fila 10 = +2 condicionales (◻️) · fila 11 = único gap, remoto, no se paga por cerrar.
 
+---
+
+# PARTE 13 — CIERRE FINAL (juzgado con el producto a la vista)
+
+**Producto confirmado por imagen:** gorro de gel antimigraña, tela elástica + inserto de gel, usable como gorro 360°, antifaz y vincha. En el producto van estampados **el logo (planta estilizada) + la palabra ALIVE**. **ALIVEAR NO aparece en el producto** (vive en tienda/comunicación).
+
+**Esto resuelve dos cosas:**
+1. Es inequívocamente una **prenda textil para la cabeza** → **Clase 25 es el ancla, inatacable** (uso real).
+2. Como el logo de ALIVEAR no va en el producto, la fila condicional 10 **se descarta** → **9 registros, cero huecos de diseño.**
+
+**Advertencia crítica sobre Clase 10:** las 3 entradas de Clase 10 (terapéutico) son **defensivas y la pata más floja**: (a) encaje opinable —el agente puede decir "es 25 nomás"—, y (b) más expuestas a caducidad por falta de uso (no vendés un dispositivo médico clase 10). Registrables porque el producto se promociona "antimigraña" (claim terapéutico real), pero con redacción cuidada para no reivindicar "dispositivo médico" (evita roce con ANMAT). **Si hay que recortar por presupuesto, se recortan estas, nunca las de Clase 25/35.**
+
+### Tabla final (9 registros)
+
+| # | Si te copian… | Lo frena | Clase* | Solidez |
+|---|---|---|---|---|
+| 1 | Gorro/antifaz/vincha "ALIVE" | ALIVE nombre | 25 | 🟢 Roca (uso real) |
+| 2 | El logo (planta) en un gorro | ALIVE logo | 25 | 🟢 Roca |
+| 3 | Gorro "antimigraña/terapéutico" ALIVE | ALIVE nombre | 10 | 🟡 Defensiva |
+| 4 | El logo en versión terapéutica | ALIVE logo | 10 | 🟡 Defensiva |
+| 5 | Tienda/ecommerce ALIVE (gorroalive) | ALIVE nombre | 35 | 🟢 Sólida |
+| 6 | Tienda/ecommerce ALIVEAR | ALIVEAR nombre | 35 | 🟢 Sólida |
+| 7 | Logo de ALIVEAR en la tienda | ALIVEAR logo | 35 | 🟢 Sólida |
+| 8 | Gorro ALIVEAR | ALIVEAR nombre | 25 | 🟢 Roca |
+| 9 | Gorro "terapéutico" ALIVEAR | ALIVEAR nombre | 10 | 🟡 Defensiva |
+
+\* Clases = hipótesis a confirmar por el agente. Excluido a propósito: logo de ALIVE en tienda (redundante) y logo de ALIVEAR en producto (no va en el gorro).
+
+### Lo que se puede firmar / lo que no
+- **SÍ:** con estos 9 concedidos, nadie vende un gorro ni abre una tienda usando ALIVE/ALIVEAR o el logo sin que el titular tenga con qué frenarlo (oposición, cese, daños, penal, aduana, takedown ML).
+- **NO (queda fuera de control del plan):** (a) que ALIVE esté libre → lo define la búsqueda del agente, es lo único que puede volar el plan; (b) copia del gorro con otro nombre → la marca protege identidad, no el molde (producto genérico, habrá clones); (c) tranquilidad pasiva → el INPI 2026 no vigila de oficio, hace falta vigilancia + oposición a tiempo.
+
 ### Matriz final (✅ = registrar · ◻️ = condicional · — = innecesario)
 
 | Activo | Terapéutico | Prenda (gorro) | Tienda / ecommerce |
