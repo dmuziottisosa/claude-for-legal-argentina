@@ -396,6 +396,16 @@ Riesgo de caducidad de Clase 10 = **bajo** para este producto: venderlo (aunque 
 
 Comunicar **"alivio / bienestar / uso terapéutico"** sostiene Clase 10 por la naturaleza del producto **y** es ANMAT-safe. Pregunta correcta al agente: cómo describir el producto para sostener Clase 10 **sin** que sea considerado dispositivo médico regulado por ANMAT.
 
+### CIERRE (PARTE 17) — verificación final (mayo 2026) y vía rápida
+
+**Repo:** confirmado que no existe módulo de marcas argentino; el plugin `ip-legal` es US-only y deriva jurisdicciones no-US. La clasificación Niza AR y la búsqueda INPI las hace la gestora.
+
+**Externo (vigente a mayo 2026):** Res. INPI 583/25 operando (examen solo de absolutos; relativos por oposición de 30 días; concesión automática ~2 meses sin oposición). Argentina fuera de Madrid. Clasificación por función principal (terapéutico → Clase 10) sin cambios.
+
+**Vía rápida (2 meses) — requisitos:** la solicitud NO debe (a) invocar prioridad extranjera, (b) usar "gestor de negocios", (c) cargar productos a mano → debe usar **términos predefinidos del nomenclador del INPI**. Beneficio colateral: usar términos del nomenclador (no "dispositivo médico" inventado) refuerza el ángulo ANMAT-safe de forma natural.
+
+**Mensaje a la gestora: APROBADO.** Describe el producto como "gorro de uso terapéutico" (señal correcta para Clase 10 + decide 25/35), es ANMAT-safe ("no es dispositivo médico regulado por ANMAT"), pide clases + costo + pago único, conciso. Sin correcciones pendientes.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
