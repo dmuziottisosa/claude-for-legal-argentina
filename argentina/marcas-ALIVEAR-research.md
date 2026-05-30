@@ -363,6 +363,16 @@ Confirma que el producto es **una prenda textil** (el gel es una característica
 - **Clase 10 = aún más marginal y frágil.** Sin producto médico que usar, ese registro es puramente defensivo y el más caducable; el agente puede rechazarlo como "esto es 25". El vector que cubriría es débil (un clon "terapéutico" también es un gorro → cae en Clase 25 igual).
 - **ANMAT: descartado** (no es fármaco ni dispositivo). Solo cuidar lenguaje publicitario ("alivia/calma" ok; evitar "cura").
 
+### CORRECCIÓN (PARTE 14) — el founder precisa: "es como vender una compresa"
+
+La aclaración anterior llevó a subestimar la Clase 10. **Se corrige:** el producto es **una compresa de gel terapéutica usada como gorro** → tiene naturaleza **dual**.
+
+- **"Dispositivo médico" (ANMAT) ≠ "Clase 10" (Niza).** La Clase 10 de Niza incluye **artículos terapéuticos humildes** — compresas, bolsas de gel frío/calor, almohadillas térmicas — no solo aparatos sofisticados/regulados. Fuente: clasificaciondeniza.com/clases/10 ; Alyafi IP (Class 10). Por eso un **gorro-compresa de gel encaja legítimamente en Clase 10**, aunque NO sea dispositivo médico ANMAT.
+- **El producto es dual:** Clase 25 (gorro/prenda) **y** Clase 10 (compresa terapéutica de gel). Ambas correctas, ninguna es misfit.
+- **Caducidad de Clase 10 se atenúa fuerte:** como SÍ se vende una compresa de gel terapéutica, hay **uso real** de un bien Clase 10 → no es registro vacío. (Vindica la conclusión —no el razonamiento— de la "Precisión B" discutida en chat.)
+
+**Recomendación corregida sobre Clase 10:** para **ALIVE** (producto estrella), registrar en Clase 10 (nombre + logo) ya **NO es reflejo, es fundado** — es la segunda casa real del producto. ALIVEAR en Clase 10 sigue siendo opcional. El núcleo de 6 (25+35) sigue siendo base válida de arranque; sumar ALIVE en 10 es una mejora bien fundada. El agente confirma redacción y si va 25, 10 o ambas (ambas, bien fundado).
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
