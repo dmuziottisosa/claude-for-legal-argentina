@@ -433,6 +433,29 @@ Aclaración: no es un dispositivo médico regulado por ANMAT, es un producto de 
 
 Cubre las tres clases del producto de forma explícita: terapéutico (10, principal), gorro/textil (25, defensiva), tienda (35). Pendiente del lado del founder: (1) que la búsqueda de antecedentes dé limpia, (2) activar vigilancia del Boletín post-registro.
 
+### PARTE 18 — BÚSQUEDA DE ANTECEDENTES REAL + estructura óptima
+
+El founder corrió la búsqueda en la base del INPI. Conflictos relevantes encontrados:
+- **ALIVE (denominativa exacta) — CONCEDIDA — Clase 35** (Beatriz Luis Guido, venc. 2031; "Excepto A…" en protección). → bloquea/expone ALIVE en 35.
+- **ALIVIAR — CONCEDIDA — Clase 35** (Milton Muñoz) y **ALIVIAR SALUD — CONCEDIDA — Clase 10** (Aliviar S.A.S.). → ALIVIAR ≈ ALIVEAR (una vocal); amenaza ALIVEAR en 35 y 10.
+- **Clase 25 (gorro): sin conflicto directo de ALIVE/ALIVEAR** (solo "ALOUD ALIVE & PROUD", composite). → terreno limpio.
+- Ruido en otras industrias (ALIVIRA salud animal cl.5/35, ALIVIS cl.5, ALIV cl.35, ALIVERA cl.35) — no son la pelea del founder.
+- A favor: ALIVEAR es **inventada (marca fuerte)**; ALIVIAR es **palabra común (marca débil)** + uso previo del founder.
+
+**Estructura óptima (5 registros):**
+
+| # | Marca | Tipo | Clase | Riesgo |
+|---|---|---|---|---|
+| 1 | ALIVE | Denominativa | 25 (gorro) | 🟢 limpio — roca |
+| 2 | Logo ALIVE | Figurativa | 25 | 🟢 limpio — diferenciador clave |
+| 3 | ALIVEAR | Denominativa | 25 (gorro) | 🟢-🟡 casi limpio |
+| 4 | ALIVE | Mixta (nombre+logo) | 10 (terapéutico) | 🟠 contestado (ALIVIAR SALUD) |
+| 5 | ALIVEAR | Mixta (nombre+logo) | 35 (ecommerce) | 🟠 contestado (ALIVE + ALIVIAR) |
+
+**Mapa de fricción:** Clase 10 (ALIVE) ← ALIVIAR SALUD; Clase 35 (ALIVEAR) ← ALIVE exacta + ALIVIAR (la más caliente). En clases contestadas: ir **mixta** (el logo diferencia). El logo es el activo más defendible contra todo el clan ALIV-.
+
+**Orden de fuego:** primero las 3 limpias de Clase 25 (mismo día, prioridad); luego las 2 contestadas con mixta. Moat real e inatacable = ALIVE + logo en gorro (25). Pregunta decisiva a la gestora: ¿ALIVIAR (débil, común) bloquea ALIVEAR (inventada, en uso)? Confusión fina = su llamada.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
