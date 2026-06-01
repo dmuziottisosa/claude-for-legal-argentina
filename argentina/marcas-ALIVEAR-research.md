@@ -456,6 +456,18 @@ El founder corrió la búsqueda en la base del INPI. Conflictos relevantes encon
 
 **Orden de fuego:** primero las 3 limpias de Clase 25 (mismo día, prioridad); luego las 2 contestadas con mixta. Moat real e inatacable = ALIVE + logo en gorro (25). Pregunta decisiva a la gestora: ¿ALIVIAR (débil, común) bloquea ALIVEAR (inventada, en uso)? Confusión fina = su llamada.
 
+### PARTE 19 — Cotización de la gestora + clase 5 verificada + contrapropuesta
+
+**Cotización recibida:** $225.500 por clase + $95.500 (título) por clase, + IVA. Propuso registrar AMBAS marcas en clases **5, 10, 25 y 35** = 8 registros ≈ $2,57M. Incluye custodia/vigilancia 10 años. Es enfoque "todo a todo", no estratégico.
+
+**Clase 5 — VERIFICADA como misfit:** Niza clase 5 = medicamentos/farmacéuticos + apósitos medicinales (consumibles con sustancia activa). El producto es una **compresa de gel reutilizable = dispositivo = Clase 10**, no clase 5. "Geles antiinflamatorios" (clase 5) = medicina con principio activo; "compresas medicinales" = apósitos medicados de un solo uso. El founder no vende ninguno → clase 5 = goods que no vende → caducable + costo inútil + contradice "no es medicamento". Fuentes: WIPO Niza clase 5; clasificaciondeniza.com/clases/10.
+
+**Contrapropuesta quirúrgica (4 registros, ~mitad del costo):**
+- ALIVE (nombre y logo) → clase 10 (compresa de gel reutilizable / dispositivo terapéutico) + clase 25 (gorros/indumentaria)
+- ALIVEAR (nombre y logo) → clase 25 (gorros/indumentaria) + clase 35 (tienda/ecommerce)
+
+Preguntas a la gestora: (1) ¿hizo búsqueda de antecedentes? (ALIVE en 35 ocupada; ALIVIAR/ALIVIAR SALUD); (2) ¿el precio por clase incluye logo o va aparte?; (3) costo total con esta estructura. Excluido: clase 5 (misfit), ALIVE/35 (ocupada por Beatriz), ALIVEAR/10 (alto choque con ALIVIAR SALUD).
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
