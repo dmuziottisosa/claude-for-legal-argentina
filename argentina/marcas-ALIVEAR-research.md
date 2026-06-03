@@ -468,6 +468,20 @@ El founder corrió la búsqueda en la base del INPI. Conflictos relevantes encon
 
 Preguntas a la gestora: (1) ¿hizo búsqueda de antecedentes? (ALIVE en 35 ocupada; ALIVIAR/ALIVIAR SALUD); (2) ¿el precio por clase incluye logo o va aparte?; (3) costo total con esta estructura. Excluido: clase 5 (misfit), ALIVE/35 (ocupada por Beatriz), ALIVEAR/10 (alto choque con ALIVIAR SALUD).
 
+### PARTE 20 — Hoja de ruta FASE 2 (blindaje adicional, no urgente)
+
+Una vez registrado el núcleo (ALIVE 25+10, ALIVEAR 35+25), jugadas para reforzar, ordenadas por valor/peso:
+
+1. **Copyright en la DNDA** (logo + packshots + textos) — barato, capa independiente de la marca; protege la creatividad visual y da munición contra clones de fotos/logo.
+2. **Figurativa del logo de ALIVE** (dibujo solo) — el mejor diferenciador en el barrio saturado "ALIV-".
+3. **Dominios + handles defensivos** — alivear.com / .com.ar + @alivear en redes (anti-cybersquatting/suplantación).
+4. **Internacional (cuando exporte)** — Argentina NO está en Madrid → registro país por país; usar la **ventana de prioridad de 6 meses del Convenio de París** desde la presentación en AR. Time-sensitive si la exportación está cerca.
+5. **Cerrar flancos de marca (bajo orden):** ALIVEAR/10 (contestada por ALIVIAR SALUD); ALIVE/35 (frágil, vs Beatriz, solo si hay resquicio).
+6. **Clases por expansión:** clase 9 (app), clase 44 (servicio de bienestar) — solo cuando exista el producto/servicio.
+7. **Prueba de uso → marca notoria** (largo plazo, gratis): guardar registro fechado de ventas/publicidad/reseñas; la notoriedad da protección más amplia que las clases y refuerza contra caducidad.
+
+El único full-fregar es que alguien registre ALIVE/25 antes que el founder → se cierra al presentar (first-to-file). Resto = molestia o competencia, no destrucción.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
