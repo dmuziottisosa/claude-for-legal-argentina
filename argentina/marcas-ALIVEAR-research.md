@@ -482,6 +482,20 @@ Una vez registrado el núcleo (ALIVE 25+10, ALIVEAR 35+25), jugadas para reforza
 
 El único full-fregar es que alguien registre ALIVE/25 antes que el founder → se cierra al presentar (first-to-file). Resto = molestia o competencia, no destrucción.
 
+### PARTE 21 — PRESENTADO (05/06/2026) + flag en clase 25
+
+Las 4 solicitudes se presentaron el **05/06/2026** (firmadas por INPI, prioridad asegurada), agente José Alberto Iacona (Estudio Iacona), titular Diógenes (persona física, 100%):
+- ALIVEAR mixta clase 25 (acta 4726893)
+- ALIVEAR mixta clase 35 (acta 4726894)
+- ALIVE mixta clase 25 (~acta 4726898)
+- ALIVE mixta clase 10 (~acta 4726899)
+
+**Bien:** mixta+logo en las 4; sin clase 5; clase 10 con 6 términos (compresas, máscaras faciales terapéuticas, prendas terapéuticas, aparatos de enfriamiento); clase 35 con 10 términos (publicidad/gestión/ecommerce + servicio de reagrupamiento minorista); sin renuncia de términos visible. Próximos pasos: publicación 15-45 días → oposición 30 días → resolución 3-6 meses → pago de títulos.
+
+**🔴 FLAG a verificar (clase 25):** el detalle de protección de clase 25 (ALIVE y ALIVEAR) dice **"PARTES DE indumentaria, calzado y sombrerería"**. El producto es un gorro TERMINADO (artículo de sombrerería), no una "parte"/componente. "Partes de" leído literal cubre componentes, no el producto terminado → posible deficiencia en la clase NÚCLEO. El spec original era "indumentaria, calzado y sombrerería" (sin "partes de"), y en clase 35 sí figura sin "partes de" → inconsistencia que sugiere error. Urgente porque ampliar alcance post-presentación está restringido (se achica, no se agranda); corregir podría requerir solicitud nueva. Acción: consultar a la gestora antes de la publicación si cubre el gorro terminado o si debe decir "indumentaria/sombrerería/gorros" y si se corrige.
+
+Nota: email en la solicitud = estudioiacona@gmail.com (de la gestora); las notificaciones del INPI van a ella → responder siempre sus mails (clave en la ventana de oposición de 30 días).
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
