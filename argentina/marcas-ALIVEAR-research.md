@@ -496,6 +496,15 @@ Las 4 solicitudes se presentaron el **05/06/2026** (firmadas por INPI, prioridad
 
 Nota: email en la solicitud = estudioiacona@gmail.com (de la gestora); las notificaciones del INPI van a ella → responder siempre sus mails (clave en la ventana de oposición de 30 días).
 
+### PARTE 22 — DEEP RESEARCH: "partes de indumentaria…" NO cubre el gorro terminado (verificado)
+
+Investigación verificada en fuentes Niza/WIPO + nomenclador INPI:
+- La nota explicativa de Clase 25 lista "partes de prendas de vestir, de calzado y de artículos de sombrerería" como **componentes** (puños, bolsillos, forros, tacones, **viseras para gorras, armaduras de sombreros**) — categoría separada del producto terminado. (WIPO Niza clase 25; clasificaciondeniza.com/clases/25; mktu.info/goods/25.)
+- El producto terminado tiene términos propios en el nomenclador: **gorros, gorras, sombreros, artículos de sombrerería, prendas de vestir, indumentaria.**
+- **Conclusión:** las solicitudes de clase 25 (ALIVE acta ~4726898 y ALIVEAR acta 4726893), redactadas solo como **"PARTES DE indumentaria, calzado y sombrerería"**, cubren **componentes, NO el gorro terminado** → hueco de cobertura en la clase núcleo del producto.
+- **Post-presentación:** el INPI permite limitar (achicar), no ampliar; ampliar a productos no incluidos requiere solicitud nueva (nueva prioridad). Excepción: si es errata material de carga, podría corregirse. Lo define la gestora/INPI.
+- **Acción urgente (antes de publicación):** pedir a la gestora corregir clase 25 a "indumentaria/sombrerería/gorros/artículos de sombrerería"; confirmar si es corrección por errata (mantiene fecha 5/6) o requiere solicitud nueva. Riesgo de demora: que un tercero presente el gorro terminado en clase 25 y gane prioridad.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
