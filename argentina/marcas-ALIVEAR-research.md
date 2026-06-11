@@ -505,6 +505,15 @@ Investigación verificada en fuentes Niza/WIPO + nomenclador INPI:
 - **Post-presentación:** el INPI permite limitar (achicar), no ampliar; ampliar a productos no incluidos requiere solicitud nueva (nueva prioridad). Excepción: si es errata material de carga, podría corregirse. Lo define la gestora/INPI.
 - **Acción urgente (antes de publicación):** pedir a la gestora corregir clase 25 a "indumentaria/sombrerería/gorros/artículos de sombrerería"; confirmar si es corrección por errata (mantiene fecha 5/6) o requiere solicitud nueva. Riesgo de demora: que un tercero presente el gorro terminado en clase 25 y gane prioridad.
 
+**Recalibración de severidad (tras repreguntas del founder):** BAJA (2-3/10), no grave. El founder YA figura en clase 25 (disuasión + base de oposición: marca idéntica + misma clase + productos afines). El "partes de" achica el alcance literal pero no la protección práctica — corregirlo es upgrade a "airtight", no rescate. La corrección barata (errata) es más fácil ANTES de la publicación.
+
+### PARTE 23 — Facturación como prueba de uso
+
+Las facturas son prueba de uso clásica (declaración jurada de uso año 5-6 + defensa contra caducidad; doc aceptada: facturas, catálogos, publicidad — Casas IP, marcasregistro.com.ar). Recomendación para cada factura:
+- **Descripción del producto:** "Gorro de gel frío/calor ALIVE" → prueba uso de ALIVE sobre el producto (clases 25/10). Si solo se puede una marca, va ALIVE.
+- **Encabezado:** registrar "ALIVEAR" como **nombre de fantasía** ante ARCA (responsable inscripto) → aparece junto al nombre del titular y documenta uso de ALIVEAR como comercio (clase 35).
+Cada venta genera así evidencia fechada de ambas marcas, gratis y en automático.
+
 **Estructura recomendada:**
 
 🟢 **Núcleo sólido — 6 registros** (uso real / objetivo claro, sin exposición a caducidad):
